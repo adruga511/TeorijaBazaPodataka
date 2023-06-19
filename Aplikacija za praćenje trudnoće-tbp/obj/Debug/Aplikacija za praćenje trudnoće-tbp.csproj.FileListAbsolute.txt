@@ -1,0 +1,53 @@
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\Aplikacija za praćenje trudnoće-tbp.exe.config
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\Aplikacija za praćenje trudnoće-tbp.exe
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\Aplikacija za praćenje trudnoće-tbp.pdb
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\Npgsql.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Buffers.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Collections.Immutable.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Memory.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Numerics.Vectors.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Text.Encodings.Web.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Text.Json.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Threading.Channels.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.ValueTuple.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\Npgsql.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Buffers.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Collections.Immutable.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Memory.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Numerics.Vectors.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Text.Encodings.Web.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Text.Json.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Threading.Channels.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\System.ValueTuple.xml
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija za praćenje trudnoće-tbp.csproj.AssemblyReference.cache
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija za praćenje trudnoće-tbp.csproj.SuggestedBindingRedirects.cache
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija_za_praćenje_trudnoće_tbp.Properties.Resources.resources
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija za praćenje trudnoće-tbp.csproj.GenerateResource.cache
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija za praćenje trudnoće-tbp.csproj.CoreCompileInputs.cache
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija za praćenje trudnoće-tbp.csproj.CopyComplete
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija za praćenje trudnoće-tbp.exe
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija za praćenje trudnoće-tbp.pdb
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija_za_praćenje_trudnoće_tbp.FormPocetniIzbornik.resources
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija_za_praćenje_trudnoće_tbp.FormPrijava.resources
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija_za_praćenje_trudnoće_tbp.FormRegistracija.resources
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija_za_praćenje_trudnoće_tbp.Funkcionalnosti.FormDnevnik.resources
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\bin\Debug\Guna.UI2.dll
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija_za_praćenje_trudnoće_tbp.FormTrud.resources
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija_za_praćenje_trudnoće_tbp.FormSmetnje.resources
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija_za_praćenje_trudnoće_tbp.FormTestovi.resources
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija_za_praćenje_trudnoće_tbp.FormPregledTesta.resources
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija_za_praćenje_trudnoće_tbp.FormEvidencija.resources
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija_za_praćenje_trudnoće_tbp.FormPregledDnevnika.resources
+C:\visualStudio\Aplikacija za praćenje trudnoće-tbp\Aplikacija za praćenje trudnoće-tbp\obj\Debug\Aplikacija_za_praćenje_trudnoće_tbp.FormPregledEvidencije.resources
